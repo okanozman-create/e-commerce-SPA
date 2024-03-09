@@ -1,7 +1,6 @@
- @import "tailwindcss/base";
+@import "tailwindcss/base";
 @import "tailwindcss/components";
-@import "tailwindcss/utilities"; 
-
+@import "tailwindcss/utilities";
 
 .App {
   text-align: center;
@@ -17,7 +16,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-  
+
 /* .text-yellow-500{
   color: blue !important;
 } */
